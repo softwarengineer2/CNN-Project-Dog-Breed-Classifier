@@ -31,10 +31,10 @@ In this real-world setting, you will need to piece together a series of models t
 
 We break the notebook into separate steps.  Feel free to use the links below to navigate the notebook.
 
-* [Step 0](#step0): Import Datasets
-* [Step 1](#step1): Detect Humans
-* [Step 2](#step2): Detect Dogs
-* [Step 3](#step3): Create a CNN to Classify Dog Breeds (from Scratch)
-* [Step 4](#step4): Create a CNN to Classify Dog Breeds (using Transfer Learning)
-* [Step 5](#step5): Write your Algorithm
-* [Step 6](#step6): Test Your Algorithm
+* Step 0: Import Datasets
+* Step 1: Detect Humans
+* Step 2: Detect Dogs
+* Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+* Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+* Step 5: Write your Algorithm
+* Step 6: Test Your Algorithm
